@@ -1,0 +1,70 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+p {
+    color: whitesmoke;
+    font-family: sans-serif;
+    line-height: 22px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+ul , li {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    padding: 20px;
+    background-position: inherit;
+    list-style-position: inside;
+}
+h3{
+    text-align: center;
+    color: whitesmoke;
+    font-family: sans-serif;
+    border-width: thin;
+}
+nav a {
+    color: aquamarine;
+}
+nav a:hover{
+    color: orange;
+}
+.section_style {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.info_style p {
+    text-align: center;
+}
+.photo_style {
+    width: 30%;
+}
+.photo_style img {
+    margin-bottom: 10px;
+}
+figcaption {
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-style: normal;
+}
