@@ -18,6 +18,7 @@ p {
     color: whitesmoke;
     font-family: sans-serif;
     line-height: 22px;
+    max-width: 70ch;
 }
 img{
     width: 100%;
